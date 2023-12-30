@@ -1,0 +1,29 @@
+
+"extensionPack": [
+    // Python language support and linting
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.autopep8",
+    "ms-python.isort",
+    "ms-python.black-formatter",
+
+    // Debugging
+    "ms-python.debugpy",
+
+    // Jupyter and data science
+    "ms-toolsai.jupyter",
+    "ms-toolsai.tensorboard",
+    "ms-toolsai.jupyter-hub",
+    "ms-toolsai.datawrangler",
+    "attilathedud.data-converter",
+
+    // Code editing and navigation
+    "oderwat.indent-rainbow",
+    "donjayamanne.python-environment-manager",
+    "sunilyadav.dspysnippets",
+    "mgesbert.python-path",
+
+    // Other
+    "charliermarsh.ruff",
+    "ms-python.gather"
+  ]

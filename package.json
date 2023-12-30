@@ -1,0 +1,44 @@
+{
+  "name": "aio-python-dev",
+  "publisher": "Toolkits",
+  "displayName": "AIO_Python_Dev",
+  "description": "A comprehensive collection of extensions enhancing the overall development experience in VSCode for Python development, including code formatting, linting, debugging, and Jupyter notebook support.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.autopep8",
+    "ms-python.isort",
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.tensorboard",
+    "ms-toolsai.jupyter-hub",
+    "ms-toolsai.datawrangler",
+    "attilathedud.data-converter",
+    "oderwat.indent-rainbow",
+    "donjayamanne.python-environment-manager",
+    "sunilyadav.dspysnippets",
+    "mgesbert.python-path",
+    "charliermarsh.ruff",
+    "ms-python.gather"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scout007-27/aio-python-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scout007-27/aio-python-dev/issues"
+  },
+  "homepage": "https://github.com/Scout007-27/aio-python-dev#readme"
+}
+
